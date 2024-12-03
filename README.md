@@ -7,8 +7,8 @@
 
 ## Lesson Structure
 ### 1. Introduction (10 Minutes)
- 1) Goal: Explain the concept of relative clauses and introduce basic relative pronouns: "who," "which," and "that."
- 2) Content:
+ (1) Goal: Explain the concept of relative clauses and introduce basic relative pronouns: "who," "which," and "that."
+ (2) Content:
   - What is a relative clause? A part of a sentence that gives more information about a noun.
   - What are subject and object relative pronouns?
     
