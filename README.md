@@ -20,7 +20,7 @@
      - Examples: "The book that I read was fascinating." "The book which I borrowed is on the table."
      - Explanation: In the relative clause "that I read," the pronoun "that" is the object of the action (read).
  
-2. Drag-and-Drop Activity (10 Minutes)
+2. Drag-and-Drop Activity (5 Minutes)
  1) Objective: Help learners identify the correct relative pronoun.
  2) Activity: 
   - Sentences are shown with blanks for relative pronouns.
