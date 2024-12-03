@@ -6,7 +6,7 @@
 3. To develop the ability to use relative clauses to add detail to sentences.
 
 ## Lesson Structure
-1. Introduction (10 Minutes)
+### 1. Introduction (10 Minutes)
  1) Goal: Explain the concept of relative clauses and introduce basic relative pronouns: "who," "which," and "that."
  2) Content:
   - What is a relative clause? A part of a sentence that gives more information about a noun.
@@ -20,7 +20,7 @@
      - Examples: "The book that I read was fascinating." "The book which I borrowed is on the table."
      - Explanation: In the relative clause "that I read," the pronoun "that" is the object of the action (read).
  
-2. Drag-and-Drop Activity (5 Minutes)
+### 2. Drag-and-Drop Activity (5 Minutes)
  (1) Objective: Help learners identify the correct relative pronoun.
  (2) Activity: 
   - Sentences are shown with blanks for relative pronouns.
@@ -31,7 +31,7 @@
   - "This is the movie ___ I watched last night." (Answer: that)
  (4) Feedback: Provide immediate feedback: Correct answers light up; incorrect answers show explanations.
 
-3. Fill in the Blank with Relative Clause (10 Minutes)
+### 3. Fill in the Blank with Relative Clause (10 Minutes)
  (1) Objective: Practice forming relative clauses. 
  (2) Activity: Learners are given a sentence with a blank and need to write the relative clause.
  (3) Examples:
@@ -42,7 +42,7 @@
   - Prompt: "Write a sentence about a friend whom you like."
   - Input: 
 
-4. Combine Sentences Using Relative Clauses (15 Minutes)
+### 4. Combine Sentences Using Relative Clauses (15 Minutes)
 (1) Objective: Develop the ability to combine two sentences into one using relative clauses.
 (2) Activity: Learners are given two sentences and need to combine them into one.
 (3) Examples:
@@ -58,7 +58,7 @@
   - Highlight the relative clause in the output sentence for visual reinforcement.
   - TTS reads the combined sentence aloud for auditory learning.
 
-5. Write Your Own Relative Clause (10 Minutes)
+### 5. Write Your Own Relative Clause (10 Minutes)
   (1) Objective: Practice forming relative clauses from prompts.
   (2) Activity Learners are given a sentence with a prompt and need to write relative clause.
   (3) Examples:
