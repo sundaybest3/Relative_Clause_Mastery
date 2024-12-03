@@ -35,20 +35,8 @@
 
  (4) Feedback: Provide immediate feedback: Correct answers light up; incorrect answers show explanations.
 
-### 3. Fill in the Blank with Relative Clause (10 Minutes)
- (1) Objective: Practice forming relative clauses. 
-
- (2) Activity: Learners are given a sentence with a blank and need to write the relative clause.
-
- (3) Examples:
-  - Prompt: "Write a sentence about a teacher who inspires you."
-  - Input: "The teacher who inspires me teaches English."
-  - Prompt: "Describe a book you love using 'which.'"
-  - Input: "The book which I love is a mystery novel."
-  - Prompt: "Write a sentence about a friend whom you like."
-  - Input: 
-
-### 4. Combine Sentences Using Relative Clauses (15 Minutes)
+### 3. Combine Sentences Using Relative Clauses (15 Minutes)
+ 
 (1) Objective: Develop the ability to combine two sentences into one using relative clauses.
 
 (2) Activity: Learners are given two sentences and need to combine them into one.
@@ -57,17 +45,17 @@
     Input:
      - Sentence 1: "The man is my neighbor."
      - Sentence 2: "He drives a blue car."
-     Output: "The man who drives a blue car is my neighbor."
+     Output: "The man ___________________ is my neighbor."
     Input:
     - Sentence 1: "I love the pizza."
     - Sentence 2: "You made it yesterday."
-    - Output: "I love the pizza that you made yesterday."
+    - Output: "_________________________________________."
 
 (4) Feedback:
   - Highlight the relative clause in the output sentence for visual reinforcement.
   - TTS reads the combined sentence aloud for auditory learning.
 
-### 5. Write Your Own Relative Clause (10 Minutes)
+### 4. Write Your Own Relative Clause (20 Minutes)
   (1) Objective: Practice forming relative clauses from prompts.
  
   (2) Activity Learners are given a sentence with a prompt and need to write relative clause.
