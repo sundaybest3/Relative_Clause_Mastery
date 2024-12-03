@@ -11,9 +11,11 @@
  2) Content:
   - What is a relative clause? A part of a sentence that gives more information about a noun.
   - What are subject and object relative pronouns?
+    
     (1) Subject Relative Pronoun (주격 관계대명사): The relative pronoun functions as the subject of the relative clause.
      - Examples: "The boy who lives next door is my best friend." "The boy who is playing soccer is my brother."
      - Explanation: In the relative clause "who lives next door," the pronoun "who" is the subject performing the action (lives).
+       
     (2) Object Relative Pronoun (목적격 관계대명사): The relative pronoun functions as the object of the verb in the relative clause.
      - Examples: "The book that I read was fascinating." "The book which I borrowed is on the table."
      - Explanation: In the relative clause "that I read," the pronoun "that" is the object of the action (read).
